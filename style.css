@@ -30,3 +30,19 @@ body {
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+.skills-card {
+  margin-top: 1.5rem;
+}
+
+.skills-list {
+  list-style-type: square;
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.skills-list li {
+  margin-bottom: 0.4rem;
+  color: #2c3e50;
+  font-weight: 500;
+}
